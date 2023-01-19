@@ -1,0 +1,70 @@
+NUMBER 1
+ A database is a collection of related tables
+
+ Database Management System is a softwae that manages databases in an organisation or institute
+
+ SQL refers to a Structured Query Languagg that is used to query databases and perform the creating,updating and deleting of any unneccessary records
+
+ Foreign key is a key that is a primary key in a related table or relation and it helps nin indentifying relationships
+
+ Primary key is one that uniquely indentifies a row or record in a relation
+
+NUMBER2
+ It helps in avoiding data redandancy by not allowing similar details to be entered in different tables
+
+ it helps in keeping track of information since its all stored in one place
+
+it helps in data or information security by limiting what is to be viewed by whom
+
+it is a better option for storing data for future use since it stays for as long as its needed
+
+it helps in permanently storing data since it can be backed up in different machines compared to the old way of keeping physical files
+
+there is independency in data or information accessbility since everyone is availed with what they need than waiting bfor the person with a key to open the office and get papers with the neede information
+
+
+NUMBER 3
+Hospital Managemnt System and it is used in hospitals to track all the hospital activities
+
+Library Managemnet System used to keep track of books at a library and all the related activitis that take place in a library
+
+Student Management System is used to manage a school or university with all the activities that take place at such institutions
+
+
+Loan Management System is used to keep track of the loans that lent out to the debtors and all the information related to it
+
+
+E-commerce managemnt system that is used to keep track of online sales forexample jumia uses that kind of DBMS
+
+Grocery Management System to manage the grocry details especiallly ifv th grocry operates online
+
+
+NUMBER 4
+Cyclic relations this is a relation ship of one relation 
+
+Ternary relationships Refers to the rlationship between three relations
+
+Binary relationships this is between two relations
+
+Quarternary relationships are among four relations
+
+one to many relation where by one table shares more relationships with many other tables in a DBMS
+
+many to many relationships this does not have a forein ky sinc many tables share relationships
+
+SECTION B
+NUMBER 5b i
+WHERE function is mostly used when a specific attribute is to be extracted and it should meet a set condition
+
+GROUPBY This function groups the attributes needed according to the condition maybe combining two names as a group or grouping ages of a different people
+
+DISTINCT this helps min choosing different values of an entity without any duplicates
+
+SELECT this is most used statment and it helps in choosing or extracting whta is needed from arelation at a time
+
+Order By this helps to arrange the results in a specified order following the command of either ascending order or descending
+
+
+
+
+
